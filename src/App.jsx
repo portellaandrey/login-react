@@ -1,4 +1,4 @@
-import './App.css'
+import "./App.css";
 import Login from "./components/login/Login";
 
 function App() {
@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <Login />
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
